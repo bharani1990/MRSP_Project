@@ -1,0 +1,9 @@
+librosa
+numpy
+matplotlib
+pandas
+scipy
+torch
+black
+ffmpeg-python
+pydub

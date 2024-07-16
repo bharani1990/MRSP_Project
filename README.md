@@ -1,6 +1,17 @@
-# Run this command
+# Clone the repo
+```
+git clone https://github.com/bharani1990/MRSP_Project.git
+```
 
+# Install dependencies
+```
+pip install -r requirements.txt
+```
+
+# Run this command
+```
 python src/main.py
+```
 
 # cd into results and check these
 

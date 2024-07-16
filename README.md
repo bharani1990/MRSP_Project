@@ -18,3 +18,7 @@ python src/main.py
 1) The .csv with table of results
 2) Check the .png for the bar plot to visualize the result
 3) The aac encoded and quantized audio for each of the file is saved here
+
+# Report 
+
+Please have a look at [here](66451_MRSP_Project_Group2_Task2.pdf) for detailed report
